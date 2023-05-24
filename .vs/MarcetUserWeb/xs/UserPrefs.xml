@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{181BB724-C7BC-4E9E-BAAE-F04F1821CB19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarcetUser/Controllers/ControllerClass.cs">
+    <Files>
+      <File FileName="MarcetUser/Controllers/ControllerClass.cs" Line="75" Column="55" />
+      <File FileName="MarcetUser/Program.cs" />
+      <File FileName="Domain/Model/Order.cs" />
+      <File FileName="DataAccessEF/Repositories/GenericRepository.cs" />
+      <File FileName="DataAccessEF/Repositories/CategoryRepository.cs" />
+      <File FileName="MarcetUser/Controllers/AuthenticationController.cs" Line="53" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MarcetUserWeb" expanded="True">
+            <Node name="DataAccessEF" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="UnitOfWork" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Interfaces" expanded="True">
+                <Node name="UnitOfWork" expanded="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+            <Node name="MarcetUser" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ControllerClass.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MarcetUser PreferredExecutionTarget="/Applications/Opera.app" />
+</Properties>
